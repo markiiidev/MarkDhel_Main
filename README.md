@@ -6,7 +6,7 @@ I'm a Full Stack developer
 
 - :muscle: Currently working as a freelance developer.
 - :gift_heart: Author of some popular open source projects. 
-- :coffee: Coffee lover, turning it into code, [you can buy me a coffee
+- :coffee: Coffee lover, turning it into code.
 - :trophy: 2020 Goals: Contribute and publish more open source projects.
 - :dart: Wasting my time to save other people's time.
 
