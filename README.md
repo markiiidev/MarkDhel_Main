@@ -12,7 +12,7 @@ I'm a Full Stack developer
 
 ## :headphones: Playing Spotify
 
-[![Programming Music](https://img.shields.io/badge/Programming%20Music-%231DB954.svg?&style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/playlist/1FWq5Cu05LmtSHgFEXRnZO?si=FozGJF9nRXq2wTv_JpN2wQ)
+[![Programming Music](https://img.shields.io/badge/Programming%20Music-%231DB954.svg?&style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/artist/05fG473iIaoy82BF1aGhL8?si=iPO2Nbo6QuGXX4rH5gRozQ)
 
 ## :wrench: Technologies 
 
